@@ -6,18 +6,6 @@
 
 // console.log(betterThanAverage([2, 3], 5));
 
-/* NEXT LEVEL */
-
-// function betterThanAverage4(classPoints, yourPoints) {
-//   const average = eval([...classPoints].join("+")) / classPoints.length;
-
-//   console.log(average);
-
-//   return yourPoints > average;
-// }
-
-// console.log(betterThanAverage4([2, 3, 14, 5, 8, 9, 1, 2, 3, 2], 5));
-
 /* SIMPLE APROACH */
 
 function betterThanAverage(classPoints, yourPoints) {
